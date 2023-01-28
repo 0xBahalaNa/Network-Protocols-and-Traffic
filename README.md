@@ -165,3 +165,6 @@ Finally, we'll observe RDP traffic. Remote Desktop Protoctol or RDP is the proto
 </p>
 
 Thank you for checking out this tutorial. It should have helped you gain a better understanding of network protocols and how network traffic works. 
+
+
+**REMEMBER TO DELETE YOUR RESOURCES ONCE YOU ARE DONE WITH THE LAB!**
